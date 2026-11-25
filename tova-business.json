@@ -1,0 +1,68 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T08:18:31.845Z",
+  "slug": "main-mechanical",
+  "name": "Main Mechanical",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Mechanics & car repair",
+    "niche": "mechanics & car repair",
+    "group": "Retail & automotive"
+  },
+  "contact": {
+    "phone": "+6433481964",
+    "email": "main.mechanical@xtra.co.nz",
+    "address": "121C Main South Road, Christchurch"
+  },
+  "social": {},
+  "about": {},
+  "before": {
+    "url": "http://www.main.mechanical.co.nz",
+    "domain": "main.mechanical.co.nz",
+    "finalUrl": "http://www.main.mechanical.co.nz/",
+    "pages": 1,
+    "score": 82,
+    "assessedAt": "2026-11-21T12:45:03.569Z",
+    "issues": [
+      {
+        "id": "no-viewport",
+        "title": "Not mobile-friendly",
+        "evidence": "The page has no responsive viewport tag, so phones show a shrunken desktop layout."
+      },
+      {
+        "id": "no-https",
+        "title": "Not served over HTTPS",
+        "evidence": "Final URL is http://www.main.mechanical.co.nz/. Browsers label this site \"Not secure\"."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "weak-title",
+        "title": "Weak or missing page title",
+        "evidence": "No <title> found, hurting Google search appearance."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/main-mechanical/",
+    "repoUrl": "https://github.com/tova-studio/main-mechanical",
+    "generator": "claude",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T08:18:31.845Z"
+  }
+}
